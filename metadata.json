@@ -1,0 +1,6 @@
+{
+  "name": "Stop the Nutrition Bill | Defend African Food Sovereignty",
+  "description": "Global civil campaign uniting citizens across Africa and the diaspora to halt restrictive nutrition bills like Nigeria's HB 2659 and protect indigenous food heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
